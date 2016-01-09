@@ -2,6 +2,7 @@
 Building a Database with Binary Search Trees
 
 @author Adrienne Bergh
+@author PJ Titterton
 
 # Program Components
 Database will allow the user to insert, delete, and query data. The data itself will be persistent, so that it may be processed over several sessions.
